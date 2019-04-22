@@ -1,0 +1,8 @@
+version : 0.1
+1) Launched this version.
+
+version : 0.2
+1) changed screenshot image and its tags.
+
+version : 0.3
+1) changed screenshot.

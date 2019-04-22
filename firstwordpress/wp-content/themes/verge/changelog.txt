@@ -1,0 +1,12 @@
+ChangeLog
+=========
+
+
+Version 2.0
+
+	i) Major Rebuild of the Theme
+	ii) Switch to latest bootstrap, _s, fontawesome
+	iii) More Featured Areas
+	iv) More Customizability
+	v) Improved Responsiveness
+	vi) Built for the future
